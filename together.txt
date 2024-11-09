@@ -1,1 +1,1 @@
-My capstone project idea: [Can we predict the customer churn rate for a fictional telecommunications company which provided home phone and Internet services in Q3, using its ‘Telco’ dataset, for the senior business managers.] (Shah)
+Capstone project idea: Can we predict the customer churn rate for a fictional telecommunications company which provided home phone and Internet services in Q3, using its ‘Telco’ dataset, for the senior business managers.
